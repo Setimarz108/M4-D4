@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "strive-books"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
